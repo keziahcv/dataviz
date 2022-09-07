@@ -1,4 +1,3 @@
-# Keziah Does Data
 Data, charts, processes, thoughts. Basically every works I did in the Telling Stories With Data class. 
 
 ## About Me
