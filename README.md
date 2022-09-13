@@ -10,7 +10,7 @@ I love data and i love storytelling, so enrolling in this class is a no-brainer 
 Finally, the main part of this website. Enjoy!
 
 ## King County Demo Data
-[Click here to go tp the data visualization](/kingcounty.md)
+[Click here to see the data visualization](/kingcounty.md)
 
 ## Visualizing Government Debt
-[Click here to go tp the data visualization](/debtdata.md)
+[Click here to see the data visualization](/debtdata.md)
