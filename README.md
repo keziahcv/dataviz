@@ -24,6 +24,6 @@ The data we are given this week is about Debt to GDP ratio of OEC countries, sta
 
 Next, I follow the instruction to create spark line chart in Flourish. This is insightful for me because I have never made a grid chart before. The grid chart is advantageous because we can see each country clearly, however, it is hard for user to compare the data of different countries. Due to this, I decided to combine what I think is lacking from the 1st and 2nd chart and adding it onto the 3rd chart. For the 3rd chart, I chose line chart race to create data movements of the top 3 countries over the year. This way, I manage to highlight the top 3 countries, display how their debt change over the years, and compare it with the rest of OECD countries. 
 
-## OECD General Government Debt
+## Assignment 2
 
-[Assignment 2](/debtdata.md)
+[Visualizing Government Debt](/debtdata.md)
