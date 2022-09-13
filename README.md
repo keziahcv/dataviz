@@ -14,3 +14,6 @@ Finally, the main part of this website. Enjoy!
 
 ## Visualizing Government Debt
 [Click here to see the data visualization](/debtdata.md)
+
+## Trust in News Organization
+[Click here to see the data visualization](/trustnews.md)
