@@ -10,8 +10,7 @@ I love data and i love storytelling, so enrolling in this class is a no-brainer 
 Finally, the main part of this website. Enjoy!
 
 ## King County Demo Data
-<div class="flourish-embed flourish-chart" data-src="visualisation/11109429"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Click here to go tp the data visualization](/kingcounty.md)
 
-## Assignment 2
-
-[Visualizing Government Debt](/debtdata.md)
+## Visualizing Government Debt
+[Click here to go tp the data visualization](/debtdata.md)
