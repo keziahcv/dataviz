@@ -38,16 +38,14 @@ I asked feedback for the sketch from 4 graduate students (20-30 year old). The f
 <b>Person 3:</b> "I don't understand what the data points represent (he only understood after I explained). But overall it's clear to me because I can see the information on salary and growth at the same time."<br />
 <b>Person 4:</b> "I feel that the title should be projected job growth in medical industry, the current title should be the hypotheses."<br />
 Afterwards, I showed them the original chart. Amidst the improvement they suggested, they unanimously said that the redesign is better than the original.<br />
-![IMG_5758](https://user-images.githubusercontent.com/113055203/191302688-3683b186-a0ad-4d65-9fb5-117e9d23dccf.jpg)
-<br />
+![IMG_5758](https://user-images.githubusercontent.com/113055203/191302688-3683b186-a0ad-4d65-9fb5-117e9d23dccf.jpg)<br />
 After I got the first round of feedback, I developed the chart on Flourish:
 <div class="flourish-embed flourish-scatter" data-src="visualisation/11219888"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Then during the Tuesday class, I got feedback from my groupmates on this first version. The feedback are:
-<ul>It's not clear why there's only these jobs are presented</ul><br />
-<ul>The legend is better positioned at the top or the side</ul><br />
-<ul>I think it's better if you change the label to Medical Job and Non-Medical Job</ul><br />
-<ul>I like that you put line that indicate all job median, but the label is not self-explanatory</ul><br />
-
+<ul>"It's not clear why there's only these jobs are presented."</ul>
+<ul>"The legend is better positioned at the top or the side."</ul>
+<ul>"I think it's better if you change the label to Medical Job and Non-Medical Job."</ul>
+<ul>"I like that you put line that indicate all job median, but the label is not self-explanatory."</ul><br />
 
 ## 5 Final Chart Redesign
 After considering all the feedback I got in class and outside of class, here is the final redesign I propose for the chart:
