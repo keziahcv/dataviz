@@ -50,4 +50,5 @@ Then during the Tuesday class, I got feedback from my groupmates on this first v
 
 
 ## 5 Final Chart Redesign
-
+After considering all the feedback I got in class and outside of class, here is the final redesign I propose for the chart:
+<div class="flourish-embed flourish-scatter" data-src="visualisation/11236427"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
