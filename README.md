@@ -17,3 +17,6 @@ Finally, the main part of this website. Enjoy!
 
 ## Trust in News Organization
 [Click here to see the data visualization](/trustnews.md)
+
+## Critique by Design
+[Click here to see the data visualization](/highestjob.md)
