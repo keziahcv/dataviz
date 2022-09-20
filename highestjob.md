@@ -1,8 +1,9 @@
 # Critique by Design
 
 ## 1: The Original Chart
+I found the chart while exploring my topic for the Final Project, and seeing the stick figure representation instantly reminds me of the example of bad data visualizations that are shown in class. I got the chart from this <a href="https://howmuch.net/articles/highest-paying-jobs-america-2018">link</a>.
 ![highest-paying-jobs-in-usa-2018-aab7-0b81](https://user-images.githubusercontent.com/113055203/191167759-1b8946ca-0d7c-4214-a1d8-846ecd77ea9c.png)
-<a href="https://howmuch.net/articles/highest-paying-jobs-america-2018">Link</a> to original website
+
 
 ## 2: Critique According to Data Visualization Effectiveness Profile
 
@@ -27,9 +28,11 @@ The aesthetic is quite good because it’s enjoyable to look at. The chart is sy
 <b>Engagement 9</b><br />
 It could possibly lead to high engagement because the topic itself is interesting to talk about. It could even inspire the audience to follow the career path in the chart based on the given information.
 
+
 ## 3 Redesign Sketch
 ![IMG_5756](https://user-images.githubusercontent.com/113055203/191302294-3acae3e5-7b37-4211-93a9-de2d59db5ccb.jpg)
 This is the sketch I proposed as redesign of the original chart.
+
 
 ## 4 Feedback for the Redesign Sketch
 I asked feedback for the sketch from 4 graduate students (20-30 year old). The feedback I got for the redesign sketch: <br />
@@ -46,6 +49,7 @@ Then during the Tuesday class, I got feedback from my groupmates on this first v
 <ul>"The legend is better positioned at the top or the side."</ul>
 <ul>"I think it's better if you change the label to Medical Job and Non-Medical Job."</ul>
 <ul>"I like that you put line that indicate all job median, but the label is not self-explanatory."</ul><br />
+
 
 ## 5 Final Chart Redesign
 After considering all the feedback I got in class and outside of class, here is the final redesign I propose for the chart:
