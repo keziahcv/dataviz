@@ -28,21 +28,26 @@ The aesthetic is quite good because it’s enjoyable to look at. The chart is sy
 It could possibly lead to high engagement because the topic itself is interesting to talk about. It could even inspire the audience to follow the career path in the chart based on the given information.
 
 ## 3 Redesign Sketch
+![IMG_5756](https://user-images.githubusercontent.com/113055203/191302294-3acae3e5-7b37-4211-93a9-de2d59db5ccb.jpg)
+This is the sketch I proposed as redesign of the original chart.
 
 ## 4 Feedback for the Redesign Sketch
-I asked feedback for the sketch from 4 graduate students (20-30 year old). The feedback I got for the redesign sketch:
-<b>Person 1</b>
-<ul>The chart is understandable because the salary and job growth is in two different axis</ul>
-<ul>The data points are too many and hard to digest, it's better if you can find their trend line</ul>
-<ul>The axis should have numbers with appropriate interval</ul>
-<b>Person 2</b>
-<ul>I can understand the chart easily</ul>
-<ul>But the information on job growth is not clear. How many year</ul>
-<ul>The axis should have numbers with appropriate interval</ul>
-I can understand the chart meaning but 
-Little confused by the projected job growth
-How many years projected job growth
+I asked feedback for the sketch from 4 graduate students (20-30 year old). The feedback I got for the redesign sketch: <br />
+<b>Person 1:</b> "The chart is understandable because the salary and job growth is in two different axis. The data points are too many and hard to digest, it's better if you can find their trend line. The axis should have numbers with appropriate interval."<br />
+<b>Person 2:</b> "I can understand the chart easily, but i feel that the information on job growth is not clear. You should state the years that used to calculate job growth."<br />
+<b>Person 3:</b> "I don't understand what the data points represent (he only understood after I explained). But overall it's clear to me because I can see the information on salary and growth at the same time."<br />
+<b>Person 4:</b> "I feel that the title should be projected job growth in medical industry, the current title should be the hypotheses."<br />
+Afterwards, I showed them the original chart. Amidst the improvement they suggested, they unanimously said that the redesign is better than the original.<br />
+![IMG_5758](https://user-images.githubusercontent.com/113055203/191302688-3683b186-a0ad-4d65-9fb5-117e9d23dccf.jpg)
+<br />
+After I got the first round of feedback, I developed the chart on Flourish:
+<div class="flourish-embed flourish-scatter" data-src="visualisation/11219888"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Then during the Tuesday class, I got feedback from my groupmates on this first version. The feedback are:
+<ul>It's not clear why there's only these jobs are presented</ul><br />
+<ul>The legend is better positioned at the top or the side</ul><br />
+<ul>I think it's better if you change the label to Medical Job and Non-Medical Job</ul><br />
+<ul>I like that you put line that indicate all job median, but the label is not self-explanatory</ul><br />
 
 
 ## 5 Final Chart Redesign
-<div class="flourish-embed flourish-scatter" data-src="visualisation/11219888"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
