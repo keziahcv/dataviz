@@ -21,5 +21,5 @@ Finally, the main part of this website. Enjoy!
 ## Critique by Design
 [Click here to see the data visualization](/highestjob.md)
 
-## Final Project
+## Final Project 1
 [Click here to see the data visualization](/finalproject.md)
