@@ -3,13 +3,13 @@
 
 ## Outline
 
-Setup: 
+<b>Setup:</b>
 Climate change causes a warmer ocean, which leads to coral expelling the algae that gives them their color and producing their food. 
 
-Conflict:
+<b>Conflict:</b>
 Without algae, the coral will die, and the entire reef ecosystem that the ocean wildlife depends on will collapse. 
 
-Resolution:<br>
+<b>Resolution:</b><br>
 Humans need to:<br>
 <ul>Prevent warmer ocean temperatures by emitting less carbon dioxide<br>
 Sustain coral reef livelihood through monitoring, adaptation, and restoration</ul>
