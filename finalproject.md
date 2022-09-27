@@ -25,25 +25,26 @@ Sustain coral reef livelihood through monitoring, adaptation, and restoration
 ![IMG_0151](https://user-images.githubusercontent.com/113055203/192429594-a9c22d76-831f-4575-a2f2-f72402601ead.jpg)
 
 ## Data
-From my preliminary research I found that the most extensive coral reef bleaching prevention programs are conducted by the US (NOAA) and Australia (Barrier Reef). Additionally, there is a documentary film dedicated specifically to this topic, which is Chasing Coral on Netflix and they have their own website that stores all the related information. Those three websites will be my main sources. I will complement this data with other government/non-government organizations that in a way supports this cause such as NASA, WWF, Climate.gov, and Coral Watch.
-Data sources link:
-https://coralreefwatch.noaa.gov/ 
-https://www.barrierreef.org/
-https://www.marineconservation.org.au
-https://www.chasingcoral.com/
-https://earthobservatory.nasa.gov/
-https://www.worldwildlife.org/
-https://coralwatch.org/
-
-Example of Data source:
-Economic Value of Coral Reefs: https://www.ncei.noaa.gov/data/oceans/coris/library/NOAA/CRCP/other/other_crcp_publications/TEV_US_Coral_Reefs_Literature_Review_2013.pdf
-Coral Reef Snapshot in 2021-2022: https://elibrary.gbrmpa.gov.au/jspui/bitstream/11017/3916/3/Reef-summer-snapshot-2021-22.pdf
+From my preliminary research I found that the most extensive coral reef bleaching prevention programs are conducted by the US (NOAA) and Australia (Barrier Reef). Additionally, there is a documentary film dedicated specifically to this topic, which is Chasing Coral on Netflix and they have their own website that stores all the related information. Those three websites will be my main sources. I will complement this data with other government/non-government organizations that in a way supports this cause such as NASA, WWF, Climate.gov, and Coral Watch. <br>
+<br>
+Data sources link:<br>
+https://coralreefwatch.noaa.gov/ <br>
+https://www.barrierreef.org/ <br>
+https://www.marineconservation.org.au <br>
+https://www.chasingcoral.com/ <br>
+https://earthobservatory.nasa.gov/ <br>
+https://www.worldwildlife.org/ <br>
+https://coralwatch.org/ <br>
+<br>
+Example of Data source:<br>
+Economic Value of Coral Reefs: https://www.ncei.noaa.gov/data/oceans/coris/library/NOAA/CRCP/other/other_crcp_publications/TEV_US_Coral_Reefs_Literature_Review_2013.pdf <br>
+Coral Reef Snapshot in 2021-2022: https://elibrary.gbrmpa.gov.au/jspui/bitstream/11017/3916/3/Reef-summer-snapshot-2021-22.pdf <br>
  
 ## Method and Medium
-I will use the tools that are taught in class, which are: 
-Shorthand for overall data story platform
-Tableau and Flourish for creating charts and graphs
-Canva and Photopea for photo editing
-Unsplash and Pexels for photo sources
-Freepik, Nounproject, Flaticon, Iconfinder for icon and graphic sources
-I will use the finished data story on Shorthand for my final presentation.
+I will use the tools that are taught in class, which are: <br>
+<ul>Shorthand for overall data story platform<br>
+Tableau and Flourish for creating charts and graphs<br>
+Canva and Photopea for photo editing<br>
+Unsplash and Pexels for photo sources<br>
+Freepik, Nounproject, Flaticon, Iconfinder for icon and graphic sources<br>
+I will use the finished data story on Shorthand for my final presentation.</ul>
