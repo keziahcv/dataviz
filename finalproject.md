@@ -1,7 +1,7 @@
 
-#Final Project 1
+# Final Project 1
 
-##Outline
+## Outline
 
 Setup: 
 Climate change causes a warmer ocean, which leads to coral expelling the algae that gives them their color and producing their food. 
@@ -14,7 +14,7 @@ Humans need to:
 Prevent warmer ocean temperatures by emitting less carbon dioxide
 Sustain coral reef livelihood through monitoring, adaptation, and restoration 
 
-##Sketch
+## Sketch
 ![IMG_0146](https://user-images.githubusercontent.com/113055203/192429410-348c42cb-6fc3-41a8-9622-725ecf65d015.jpg)
 ![IMG_0147](https://user-images.githubusercontent.com/113055203/192429429-497a5199-1c16-4636-a740-ff10ee4c4f6c.jpg)
 ![IMG_0152](https://user-images.githubusercontent.com/113055203/192429450-ab64d976-35a8-40f4-96ff-f4d43560e85f.jpg)
@@ -24,7 +24,7 @@ Sustain coral reef livelihood through monitoring, adaptation, and restoration
 ![IMG_0153](https://user-images.githubusercontent.com/113055203/192429586-280659a2-3716-4329-bf83-d3e03a12b32b.jpg)
 ![IMG_0151](https://user-images.githubusercontent.com/113055203/192429594-a9c22d76-831f-4575-a2f2-f72402601ead.jpg)
 
-##Data
+## Data
 From my preliminary research I found that the most extensive coral reef bleaching prevention programs are conducted by the US (NOAA) and Australia (Barrier Reef). Additionally, there is a documentary film dedicated specifically to this topic, which is Chasing Coral on Netflix and they have their own website that stores all the related information. Those three websites will be my main sources. I will complement this data with other government/non-government organizations that in a way supports this cause such as NASA, WWF, Climate.gov, and Coral Watch.
 Data sources link:
 https://coralreefwatch.noaa.gov/ 
@@ -35,11 +35,11 @@ https://earthobservatory.nasa.gov/
 https://www.worldwildlife.org/
 https://coralwatch.org/
 
-##Example of Data source:
+Example of Data source:
 Economic Value of Coral Reefs: https://www.ncei.noaa.gov/data/oceans/coris/library/NOAA/CRCP/other/other_crcp_publications/TEV_US_Coral_Reefs_Literature_Review_2013.pdf
 Coral Reef Snapshot in 2021-2022: https://elibrary.gbrmpa.gov.au/jspui/bitstream/11017/3916/3/Reef-summer-snapshot-2021-22.pdf
  
-##Method and Medium
+## Method and Medium
 I will use the tools that are taught in class, which are: 
 Shorthand for overall data story platform
 Tableau and Flourish for creating charts and graphs
