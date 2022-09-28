@@ -48,3 +48,17 @@ Canva and Photopea for photo editing<br>
 Unsplash and Pexels for photo sources<br>
 Freepik, Nounproject, Flaticon, Iconfinder for icon and graphic sources<br>
 I will use the finished data story on Shorthand for my final presentation.</ul>
+
+## Classroom Critique Result
+<b>What Works:</b><br>
+<ul>Use of term 'rainforest of the ocean' to describe coral reef<br>
+Use of powerful percentage such as '30% people depend on coral reef'</ul>
+ 
+ </b>What Doesn't Work:</b><br>
+ <ul>The chart is still not following the order of the storyline<br>
+ The call for action is too much, try to narrow it down to prevent overwhelming audience</ul><br>
+ 
+ <b>What Could Be Improved:</b><br>
+ <ul>If possible, create timeline as well for the opposite, like projection of what would happen if we take action now</ul>
+ 
+ 
