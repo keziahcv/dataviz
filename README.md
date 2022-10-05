@@ -23,3 +23,7 @@ Finally, the main part of this website. Enjoy!
 
 ## Final Project 1
 [Click here to see the data visualization](/finalproject.md)
+
+## Final Project 2
+[Click here to see the data visualization](/finalproject2.md)
+
