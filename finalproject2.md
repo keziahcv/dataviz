@@ -5,14 +5,14 @@ Each polyp is a circular mouth surrounded by tentacles.
 Inside their tissues are plants, microalgae, a million per centimeter square.
 These algae photosynthesize and provide food for the coral. It is also what gives the coral their colors.
 
-![coral-reefs-nasa](https://user-images.githubusercontent.com/113055203/194206460-d76f809e-f605-4fc9-b80e-162a30aa0733.jpeg)
-
 <b>Data Visualization:</b>
 Coral reefs cover only 2% of the ocean bottom (and less than 1% of the earth’s surface),
 And yet…
 
 <b>Data Visualization:</b>
 Coral reefs support 25% of all known marine species, and the variety of species living on coral reefs is greater than almost anywhere else in the world. 
+
+![coral-reefs-nasa](https://user-images.githubusercontent.com/113055203/194206460-d76f809e-f605-4fc9-b80e-162a30aa0733.jpeg)
 
 <b>Data Visualization:</b>
 Scientists estimate that more than 1 million species of plants and animals are associated with coral reef ecosystems. 
