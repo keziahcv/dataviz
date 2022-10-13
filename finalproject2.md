@@ -126,8 +126,3 @@ Let’s act now to save our coral reefs.
 <b>Call to action button:</b>
 Donate to cause
 Be a volunteer (coralwatch)
-
-### Note
-
-<ul>I finished the assignment late, and I haven't got feedback. I will update this page once I got feedback.<br>
-I know that we are supposed to create our own chart, but I haven't got around to it as finding and assembling the data itself was difficult. For my final presentation, I will surely create my own charts to support this story. The chart I used here are the ones I can find on the internet (I might or might not include it on the final presentation).</ul>
