@@ -1,5 +1,5 @@
 ## Final Project on Shorthand
 
-Full presentation: https://carnegiemellon.shorthandstories.com/coral-reef-bleaching/
+<a href="https://carnegiemellon.shorthandstories.com/coral-reef-bleaching/">Full presentation</a>
 
-1 minute presentation: https://carnegiemellon.shorthandstories.com/coral-reef-bleaching-short/
+<a href="https://carnegiemellon.shorthandstories.com/coral-reef-bleaching-short/">1 minute presentation</a>
